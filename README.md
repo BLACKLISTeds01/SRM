@@ -1,2 +1,2 @@
 # SRM
-srm projects 
+Tictactoe
