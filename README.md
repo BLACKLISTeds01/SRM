@@ -1,2 +1,2 @@
-# SRM
+# PPSproject
 Tictactoe
